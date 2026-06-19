@@ -2,7 +2,7 @@
 
 This is a Python tool I built to check password risk in a safe way. It does not crack passwords, save passwords, or send passwords to any website.
 
-This project was developed as part of a Studio 2 group project at Noroff University College together with four fellow students. The project focuses on password security analysis and demonstrates Python programming, password risk assessment, and secure coding practices.
+This project was developed as part of a Studio 2 group project at Noroff University College in collaboration with four fellow students. Through this project, I gained hands-on experience in Python programming, password security analysis, risk assessment, and secure coding practices.
 
 ## What the project does
 
