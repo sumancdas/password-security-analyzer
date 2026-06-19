@@ -2,7 +2,7 @@
 
 This is a Python tool I built to check password risk in a safe way. It does not crack passwords, save passwords, or send passwords to any website.
 
-I made this project from a password checking group task. I wanted my version to be more focused on safe security practice, so the tool gives a risk report and practical advice instead of doing anything offensive.
+This project was inspired by a university password security assignment and further developed as a personal cybersecurity portfolio project.
 
 ## What the project does
 
