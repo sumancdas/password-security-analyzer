@@ -184,8 +184,3 @@ The current version does not check online breach databases. I kept it local for 
 * Export reports to JSON or CSV
 * Add a simple chart for score comparison
 
-## Portfolio note
-
-This project shows my understanding of password security, Python scripting, and ethical cybersecurity work. It also shows how I can take a class project idea and turn it into a safer and more practical portfolio project.
-
-It can support applications for roles such as cybersecurity analyst trainee, SOC analyst trainee, junior security engineer, IT support with security tasks, or Python automation trainee.
