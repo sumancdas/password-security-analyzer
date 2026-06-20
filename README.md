@@ -1,6 +1,6 @@
 ﻿# Password Security Analyzer
 
-This is a Python tool I built to check password risk in a safe way. It does not crack passwords, save passwords, or send passwords to any website.
+This is a Python tool was built in the Studio 2 group project to check password risk in a safe way. It does not crack passwords, save passwords, or send passwords to any website.
 
 This project was developed as part of a Studio 2 group project at Noroff University College in collaboration with four fellow students. Through this project, I gained hands-on experience in Python programming, password security analysis, risk assessment, and secure coding practices.
 
