@@ -24,9 +24,7 @@ The goal is not to say that a password is perfect. The goal is to show visible w
 * Gives a rating: critical, weak, moderate, or strong
 * Runs locally with no extra Python packages
 
-## Why I built it this way
-
-Passwords are sensitive, so I kept the design simple and safe.
+## Passwords are sensitive, so I kept the design simple and safe.
 
 This tool:
 
@@ -36,14 +34,13 @@ This tool:
 * does not send passwords to an API
 * does not print the full password in the report
 
-This makes the project better for a cybersecurity portfolio because it shows technical work and responsible thinking at the same time.
+
 
 ## Files in this project
 
 ```text
 password-security-analyzer/
   README.md
-  GITHUB_UPLOAD_GUIDE.md
   password_analyzer.py
   .gitignore
 ```
